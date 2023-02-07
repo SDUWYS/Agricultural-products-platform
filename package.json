@@ -1,0 +1,8 @@
+{
+  "devDependencies": {},
+  "dependencies": {
+    "@rollup/plugin-alias": "^3.1.9",
+    "dayjs": "^1.11.3",
+    "vue": "^3.2.31"
+  }
+}
